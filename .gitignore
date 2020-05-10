@@ -20,7 +20,7 @@ logs
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml 
 hs_err_pid* 
 ###################### 
-# 解决maven产生的文件   排除打包后的文件
+# 解决maven产生的文件
 ###################### 
 target/ 
 **/target/ 
